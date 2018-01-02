@@ -24,7 +24,7 @@ Group 2
 Group 1
 - Angela
 - Tamira
-- Kimberly & Roxanne
+- Kimberley & Roxanne
 - Iuliia
 
 Group 2
