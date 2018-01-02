@@ -19,7 +19,8 @@ Group 2
 - Kee
 
 
-**PM: Dan**
+**PM: Dan** 
+
 Group 1
 - Angela
 - Tamira
@@ -38,6 +39,7 @@ Group 3
 - Irene
 
 **PM: Kari**
+
 Group 1
 - Tanisha
 - Bennett
