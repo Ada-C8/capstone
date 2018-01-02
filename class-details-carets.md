@@ -8,7 +8,7 @@
 ## **PM: Dee**
 
 ### Unity Team
--Canaan West  
+- Canaan West  
 - Guillermina Muro  
 - Isaac Del Rosario  
 - Jocelyn Gonzalez
