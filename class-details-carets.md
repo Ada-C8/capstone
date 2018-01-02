@@ -5,21 +5,21 @@
 1. [Product Plan](/product-plan.md)--Due Tuesday 1/2
 
 ## [Capstone Groups](/groups.md)
-**PM: Dee**
+## **PM: Dee**
 
-## Unity Team
+### Unity Team
 Canaan West
 Guillermina Muro
 Isaac Del Rosario
 Jocelyn Gonzalez
 
-## React Native Team
+### React Native Team
 Gale Harrington
 Maria McGrew
 Marisa Morris
 Laura Robertson
 
-## Misc Team B 
+### Misc Team B 
 Sara Chandler (Robotics Python)
 Kimberley Mackenzie (C++, Kinect)
 Stefanie Gunderson (Rails & Backbone)
@@ -28,20 +28,20 @@ Jessica Owens (Facebook chatbot)
 
 
 
-**PM: Chris**
-## React Team
+## **PM: Chris**
+### React Team
 Amy Lee
 Jan Edrozo
 Victoria Sawchuk
 Averi Kitsch
 
-## Python Team
+### Python Team
 Severin Wiggenhorn
 Shaunna Wiens
 Isabel Suchanek
 Lauren Cardella
 
-## Misc Team A 
+### Misc Team A 
 Tanja Stroble (Swift)
 Julia Meier (swift)
 Kayla Ecker (Android Studio Java)
