@@ -5,8 +5,36 @@
 1. [Product Plan](/product-plan.md)--Due Tuesday 1/2
 
 ## [Capstone Groups](/groups.md)
-**PM: Jamie**
-TBD
+**PM: Charles**
+Group 1
+Diane
+Nkiru
+Andrea
+Rebecca
+
+Group 2
+Sara
+Sarah
+Kee
+
 
 **PM: Dan**
-TBD
+Angela
+Tamira
+Kimberly & Roxanne
+Iuliia
+
+Lindsey
+Mariana
+Amy
+Eva
+
+Kate
+Saira
+Irene
+
+**PM: Kari**
+Tanisha
+Bennett
+Bianca
+Lauren
