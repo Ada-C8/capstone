@@ -6,16 +6,16 @@
 
 ## [Capstone Groups](/groups.md)
 **PM: Charles**
-Group 1
-Diane
-Nkiru
-Andrea
-Rebecca
 
-Group 2
-Sara
-Sarah
-Kee
+- Diane  
+- Nkiru  
+- Andrea  
+- Rebecca  
+
+
+- Sara
+- Sarah
+- Kee
 
 
 **PM: Dan**
