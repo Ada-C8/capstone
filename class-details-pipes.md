@@ -10,12 +10,12 @@
 Group 1
 - Diane  
 - Nkiru  
-- Andrea  
+- Anders  
 - Rebecca  
 
 Group 2
-- Sara
-- Sarah
+- Sara F
+- Sarah RB
 - Kee
 
 
