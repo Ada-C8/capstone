@@ -22,7 +22,6 @@
 ### Misc Team B 
 - Sara Chandler (Robotics Python)
 - Kimberley Mackenzie (C++, Kinect)
-- Stefanie Gunderson (Rails & Backbone)
 - Jessica Owens (Facebook chatbot)
 
 ## **PM: Chris**
@@ -30,6 +29,7 @@
 -  Amy Lee
 -  Victoria Sawchuk
 -  Averi Kitsch
+-  Stefanie Gunderson
 
 ### Python Team
 -  Severin Wiggenhorn
