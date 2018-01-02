@@ -20,22 +20,26 @@ Group 2
 
 
 **PM: Dan**
-Angela
-Tamira
-Kimberly & Roxanne
-Iuliia
+Group 1
+- Angela
+- Tamira
+- Kimberly & Roxanne
+- Iuliia
 
-Lindsey
-Mariana
-Amy
-Eva
+Group 2
+- Lindsey
+- Mariana
+- Amy
+- Eva
 
-Kate
-Saira
-Irene
+Group 3
+- Kate
+- Saira
+- Irene
 
 **PM: Kari**
-Tanisha
-Bennett
-Bianca
-Lauren
+Group 1
+- Tanisha
+- Bennett
+- Bianca
+- Lauren
