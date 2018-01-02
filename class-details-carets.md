@@ -8,41 +8,38 @@
 ## **PM: Dee**
 
 ### Unity Team
-Canaan West
-Guillermina Muro
-Isaac Del Rosario
-Jocelyn Gonzalez
+-Canaan West  
+- Guillermina Muro  
+- Isaac Del Rosario  
+- Jocelyn Gonzalez
 
 ### React Native Team
-Gale Harrington
-Maria McGrew
-Marisa Morris
-Laura Robertson
+- Gale Harrington
+- Maria McGrew
+- Marisa Morris
+- Laura Robertson
 
 ### Misc Team B 
-Sara Chandler (Robotics Python)
-Kimberley Mackenzie (C++, Kinect)
-Stefanie Gunderson (Rails & Backbone)
-Jessica Owens (Facebook chatbot)
-
-
-
+- Sara Chandler (Robotics Python)
+- Kimberley Mackenzie (C++, Kinect)
+- Stefanie Gunderson (Rails & Backbone)
+- Jessica Owens (Facebook chatbot)
 
 ## **PM: Chris**
 ### React Team
-Amy Lee
-Jan Edrozo
-Victoria Sawchuk
-Averi Kitsch
+-  Amy Lee
+-  Jan Edrozo
+-  Victoria Sawchuk
+-  Averi Kitsch
 
 ### Python Team
-Severin Wiggenhorn
-Shaunna Wiens
-Isabel Suchanek
-Lauren Cardella
+-  Severin Wiggenhorn
+-  Shaunna Wiens
+-  Isabel Suchanek
+-  Lauren Cardella
 
 ### Misc Team A 
-Tanja Stroble (Swift)
-Julia Meier (swift)
-Kayla Ecker (Android Studio Java)
-Christiane Sawadogo (Android, Java)
+-  Tanja Stroble (Swift)
+-  Julia Meier (swift)
+-  Kayla Ecker (Android Studio Java)
+-  Christiane Sawadogo (Android, Java)
