@@ -28,7 +28,6 @@
 ## **PM: Chris**
 ### React Team
 -  Amy Lee
--  Jan Edrozo
 -  Victoria Sawchuk
 -  Averi Kitsch
 
@@ -36,10 +35,11 @@
 -  Severin Wiggenhorn
 -  Shaunna Wiens
 -  Isabel Suchanek
--  Lauren Cardella
+-  Jan Edrozo
 
 ### Misc Team A 
 -  Tanja Stroble (Swift)
 -  Julia Meier (swift)
+-  Lauren Cardella (Swift)
 -  Kayla Ecker (Android Studio Java)
 -  Christiane Sawadogo (Android, Java)
